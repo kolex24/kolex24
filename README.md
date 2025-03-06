@@ -2,7 +2,7 @@
 - 👀 I’m interested in DataAnalyst 
 - 🌱 I’m currently learning SQL|Python
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me whatsapp....08094294128
+- 📫 How to reach me email: khalidgbolahan719@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 

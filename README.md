@@ -2,9 +2,8 @@
 
 ## Statistics Graduate | Data Analyst | Junior Data Scientist
 ---
-Welcome to my GitHub profile! I'm a statistics graduate passionate about turning raw data into meaningful insights and building data driven solutions to real-world problems.
----
-I work across **data analytics, statistical analysis, machine learning, and business intelligence**, with experience using python, R, SQL, Power BI and Excel.
+Welcome to my GitHub profile! I'm a statistics graduate passionate about turning raw data into meaningful insights and building data driven solutions to real-world problems. I work across **data analytics, statistical analysis, machine learning, and business intelligence**, with experience using python, R, SQL, Power BI and Excel.
+
 ---
 
  🧠 **What I Do**

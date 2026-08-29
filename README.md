@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a statistics graduate passionate about turning
 ---
 ## 🛠️ Tech Stack
 - **Languages**
-Python | SQL | R
+ Python | SQL | R
 - **Data Analysis**
-Pandas | Numpy | Excel | Power Query
+ Pandas | Numpy | Excel | Power Query
 <!---
 kolex24/kolex24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kolex24
+## Hi there! I'm Lukmon Khalid Gbolahan 👋
 - 👀 I’m interested in Statistics, Data Analyst and Data Scientist
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email: khalidgbolahan719@gmail.com

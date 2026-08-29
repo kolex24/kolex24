@@ -1,4 +1,6 @@
-## Hi there! I'm Lukmon Khalid Gbolahan 👋
+# Hi there! I'm Lukmon Khalid Gbolahan 👋
+
+## Statistics Graduate | Data Analyst | Junior Data Scientist
 - 👀 I’m interested in Statistics, Data Analyst and Data Scientist
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me email: khalidgbolahan719@gmail.com

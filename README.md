@@ -6,6 +6,7 @@ Welcome to my GitHub profile! I'm a statistics graduate passionate about turning
 ---
 ## 🛠️ Tech Stack
 - **Languages**
+  
  Python | SQL | R
 - **Data Analysis**
  Pandas | Numpy | Excel | Power Query

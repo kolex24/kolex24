@@ -5,9 +5,9 @@ Welcome to my GitHub profile! I'm a statistics graduate passionate about turning
 
 ---
 ## 🛠️ Tech Stack
-**Languages**
+- **Languages**
 Python | SQL | R
-**Data Analysis**
+- **Data Analysis**
 Pandas | Numpy | Excel | Power Query
 <!---
 kolex24/kolex24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
